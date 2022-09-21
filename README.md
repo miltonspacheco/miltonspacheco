@@ -27,11 +27,11 @@
   <img align="center" alt="Milton-React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-<div align="center">
+<div>
 <hr>
   <a href="https://github.com/miltonspacheco">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miltonspacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonspacheco&layout=compact&langs_count=7&theme=dark"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=miltonspacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonspacheco&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
