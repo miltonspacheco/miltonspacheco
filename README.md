@@ -3,7 +3,7 @@
 
 - 📕 - Graduando em Engenharia da Computação pela Universidade Federal de Santa Catarina (UFSC);
 
-- 💬 - Entre em contato comigo pelo meu e-mail: miltonsilveirapacheco@gmail.com ou pelo meu <a href="https://www.linkedin.com/in/davi-souza2001/"> Linkedin </a>
+- 💬 - Entre em contato comigo pelo meu e-mail: miltonsilveirapacheco@gmail.com ou pelo meu <a href="https://www.linkedin.com/in/miltonspacheco/"> Linkedin </a>
 
 - 🚀 - 
 
