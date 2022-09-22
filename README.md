@@ -3,9 +3,9 @@
 
 - 📕 - Graduando em Engenharia da Computação pela Universidade Federal de Santa Catarina (UFSC);
 
-- 💬 - Entre em contato comigo pelo meu e-mail: miltonsilveirapacheco@gmail.com ou pelo meu <a href="https://www.linkedin.com/in/miltonspacheco/"> Linkedin </a>
+- 💬 - Entre em contato comigo pelo meu e-mail: miltonsilveirapacheco@gmail.com ou pelo meu <a href="https://www.linkedin.com/in/miltonspacheco/"> Linkedin </a>;
 
-- 🚀 - 
+- 🚀 - Sou apaixonado por tecnologia, estou constantemente estudando para resolver problemas, criar produtos incríveis e impactar vidas.
 
 <hr>
 
