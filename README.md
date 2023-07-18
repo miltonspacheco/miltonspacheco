@@ -24,7 +24,10 @@
 
 ### Tecnologias que estou estudando ou tenho menos experiência
 <div style="display: inline_block"><br>
+  <img align="center" alt="Milton-Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="Milton-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Milton-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Milton-Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 <hr>
