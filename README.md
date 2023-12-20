@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, eu sou Milton Pacheco</h1>
+<h1 align="center">Olá, eu sou Milton Pacheco</h1>
 <!-- <h3 align="center">Sou desenvolvedor mobile</h3> -->
 
 - 📕 - Graduando em Engenharia da Computação pela Universidade Federal de Santa Catarina (UFSC);
