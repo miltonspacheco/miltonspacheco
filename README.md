@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Milton Pacheco</h1>
 <!-- <h3 align="center">Sou desenvolvedor mobile</h3> -->
 
-- 📕 - Graduando em Engenharia da Computação pela Universidade Federal de Santa Catarina (UFSC);
+- 📕 - Graduando em Engenharia da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS);
 
 - 💬 - Entre em contato comigo pelo meu e-mail: miltonsilveirapacheco@gmail.com ou pelo meu <a href="https://www.linkedin.com/in/miltonspacheco/"> Linkedin </a>;
 
