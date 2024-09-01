@@ -15,7 +15,7 @@
     </a>
 </div>
 
-Instigado por resolver problemas e criar soluções inovadoras. Possuo base sólida em C, C++, Python, Estrutura de Dados, POO, modelagem de banco de dados, SQL e conhecimento básico de desenvolvimento web com HTML, CSS, JavaScript, React e Node.js. Nos últimos meses tenho aprofundado meus estudos em desenvolvimento, além de continuar me aperfeiçoando nas tecnologias que possuo experiência. Aprender continuamente novas tecnologias é minha motivação, estou sempre aberto a novas experiências e interessado em me manter atualizado no mundo do desenvolvimento.
+Possuo base sólida em C, C++, Python, Estrutura de Dados, POO, modelagem de banco de dados, SQL e conhecimento básico de desenvolvimento web com HTML, CSS, JavaScript, React e Node.js. Nos últimos meses tenho aprofundado meus estudos em desenvolvimento, além de continuar me aperfeiçoando nas tecnologias que possuo experiência. Aprender continuamente novas tecnologias é minha motivação, estou sempre aberto a novas experiências e interessado em me manter atualizado no mundo do desenvolvimento.
 
 <div>
   
